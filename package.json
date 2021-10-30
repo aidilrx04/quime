@@ -1,0 +1,24 @@
+{
+  "name": "quime",
+  "version": "0.1.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidilrx04/quime.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidilrx04/quime/issues"
+  },
+  "homepage": "https://github.com/aidilrx04/quime#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
